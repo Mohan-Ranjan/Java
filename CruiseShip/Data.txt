@@ -1,0 +1,48 @@
+Cabin : 0
+Passenger 0 : { FirstName : Mohan, Surname : Shan, Expenses : 234.0}
+Passenger 1 : { FirstName : Jana, Surname : Kaja, Expenses : 345.0}
+Passenger 2 : { FirstName : Dilini, Surname : Amarashinghe, Expenses : 345.0}
+Cabin : 1
+Passenger 0 : { FirstName : Jana, Surname : Janu, Expenses : 235.0}
+Passenger 1 : { FirstName : Kajal, Surname : Janani, Expenses : 543.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 2
+Passenger 0 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 3
+Passenger 0 : { FirstName : Sanu, Surname : Banu, Expenses : 987.0}
+Passenger 1 : { FirstName : Kajol, Surname : Mohanan, Expenses : 999.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 4
+Passenger 0 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 5
+Passenger 0 : { FirstName : Raja, Surname : Rani, Expenses : 500.0}
+Passenger 1 : { FirstName : Rocky, Surname : Bhai, Expenses : 900.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 6
+Passenger 0 : { FirstName : Kajalina, Surname : Malini, Expenses : 600.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 7
+Passenger 0 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 8
+Passenger 0 : { FirstName : Kajolina, Surname : MECRENE, Expenses : 723.0}
+Passenger 1 : { FirstName : TOM, Surname : Croose, Expenses : 555.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 9
+Passenger 0 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 10
+Passenger 0 : { FirstName : yanu, Surname : bamu, Expenses : 232.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
+Cabin : 11
+Passenger 0 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 1 : { FirstName : e, Surname : e, Expenses : 0.0}
+Passenger 2 : { FirstName : e, Surname : e, Expenses : 0.0}
